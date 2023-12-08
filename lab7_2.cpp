@@ -1,7 +1,15 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main(){
+
+    string ans;
 //Dialog of the first example is given below.
 
 /*
-Fahsai: Sawadee ka...Can you tell me your name?
+    cout<<"Fahsai: Sawadee ka...Can you tell me your name?\n"
+    
 ?????: Luke Skywalker
 Fahsai: Wow!!! Luke Skywalker is a really cool name.
 Fahsai: I think you are an Engineering student. What is your student ID?
